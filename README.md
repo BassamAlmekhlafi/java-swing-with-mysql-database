@@ -1,3 +1,7 @@
+to open the project you need to 
+download the xampp to import the database 
+then download the netbeans 
+
 "# java-swing-with-mysql-database" 
 
 "frist form"
